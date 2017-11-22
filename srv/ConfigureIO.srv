@@ -1,0 +1,5 @@
+string source
+IOConfig[] configs
+---
+bool success
+uint8 retCode
