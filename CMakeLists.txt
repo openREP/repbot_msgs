@@ -59,6 +59,7 @@ add_message_files(
 add_service_files(
   FILES
   ConfigureIO.srv
+  RobotEnable.srv
 )
 
 ## Generate actions in the 'action' folder
