@@ -1,2 +1,2 @@
-Header header
+string source
 sensor_msgs/Joy[] joysticks
